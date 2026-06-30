@@ -58,18 +58,13 @@ Microsoft Outlook profile was repaired successfully. User confirmed Outlook open
 
 ### Ticket Created
 
-*(Insert screenshot here)*
-
-### Ticket Assigned
-
-*(Insert screenshot here)*
+<img width="603" height="764" alt="Screen Shot 2026-06-29 at 7 39 40 PM" src="https://github.com/user-attachments/assets/06c19ba0-ef7a-472d-ba96-ea87a0151de5" />
 
 ### Troubleshooting
+<img width="1128" height="650" alt="Screen Shot 2026-06-29 at 8 03 53 PM" src="https://github.com/user-attachments/assets/68bb43de-002a-4d98-a70c-9b4cb7900685" />
 
-*(Insert screenshot here)*
 
 ### Ticket Resolved
 
 *(Insert screenshot here)*
-<img width="603" height="764" alt="Screen Shot 2026-06-29 at 7 39 40 PM" src="https://github.com/user-attachments/assets/05b1ab69-c30a-4a89-b962-33cd1059ffdc" />
-
+ 
