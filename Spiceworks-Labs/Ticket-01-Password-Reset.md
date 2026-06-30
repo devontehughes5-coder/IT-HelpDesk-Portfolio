@@ -55,7 +55,8 @@ Password reset completed successfully. User was able to sign in and confirmed ac
 
 ### Ticket Created
 
-*(Insert screenshot here)*
+* <img width="1047" height="660" alt="Screen Shot 2026-06-29 at 11 15 37 PM" src="https://github.com/user-attachments/assets/d563a9e5-a9da-4a0d-866d-e4e88352176a" />
+
 
 ### Ticket Assigned
 
