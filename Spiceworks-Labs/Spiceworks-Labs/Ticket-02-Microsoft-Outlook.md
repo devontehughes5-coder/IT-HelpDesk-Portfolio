@@ -63,8 +63,4 @@ Microsoft Outlook profile was repaired successfully. User confirmed Outlook open
 ### Troubleshooting
 <img width="1128" height="650" alt="Screen Shot 2026-06-29 at 8 03 53 PM" src="https://github.com/user-attachments/assets/68bb43de-002a-4d98-a70c-9b4cb7900685" />
 
-
-### Ticket Resolved
-
-*(Insert screenshot here)*
  
